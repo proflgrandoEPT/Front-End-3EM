@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App { 
+
+  text-align: center; 
+
+  font-family: Arial, sans-serif; 
+
+} 
+
+ 
+
+.todo-item { 
+
+  display: flex; 
+
+  justify-content: space-between; 
+
+  margin: 5px 0; 
+
+} 
+
+ 
+
+.completed { 
+
+  text-decoration: line-through; 
+
+  color: grey; 
+
+} 
