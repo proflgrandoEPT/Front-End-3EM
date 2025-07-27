@@ -1,3 +1,34 @@
+# Medição de performance
+
+
+Objetivo: Comparar o desempenho antes e depois das otimizações.
+
+
+## Utilizando Google Lighthouse
+
+· Passo a passo:
+
+1. Abra sua aplicação no Google Chrome.
+
+2. Vá até o DevTools (F12), selecione a aba Lighthouse.
+
+3. Clique em Generate Report e aguarde. Esse relatório mostrará métricas como tempo de carregamento, uso de JavaScript e CSS.
+
+4. Faça isso antes e depois das otimizações e compare os resultados.
+
+
+## Utilizando Chrome DevTools
+
+· Passo a passo:
+
+1. Abra o Chrome DevTools e vá até a aba Network.
+
+2. Acesse a página da sua aplicação e observe o tamanho dos arquivos carregados, tempo de resposta e o número de requests.
+
+3. Use isso para monitorar a eficiência de cada técnica aplicada.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
