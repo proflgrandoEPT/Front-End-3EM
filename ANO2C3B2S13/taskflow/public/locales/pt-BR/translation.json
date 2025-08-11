@@ -1,0 +1,13 @@
+{
+  "app": {
+    "portuguese": "Português",
+
+    "english": "Inglês",
+
+    "title": "Internacionalização do TaskFlow",
+
+    "subtitle": "Aprendendo a instalar e configurar biblioteca de internacionalização",
+
+    "select_language": "Selecione uma linguagem"
+  }
+}

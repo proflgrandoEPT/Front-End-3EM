@@ -1,0 +1,13 @@
+{
+  "app": {
+    "portuguese": "Portuguese",
+
+    "english": "English",
+
+    "title": "Internationalization of TaskFlow application",
+
+    "subtitle": "Learning to install and configure internationalization library",
+
+    "select_language": "Select a language"
+  }
+}
